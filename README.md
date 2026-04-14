@@ -15,7 +15,7 @@ As a Full-Stack Developer, I am passionate about building impactful and scalable
 [![My Skills](https://skillicons.dev/icons?i=js,ts,&perline=10)](https://skillicons.dev)
 
 ### Front-end
-[![My Skills](https://skillicons.dev/icons?i=svelte,angular,react,html,css,sass,less,tailwind&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=svelte,next,html,css,sass,less,tailwind&perline=10)](https://skillicons.dev)
 
 ### Back-end
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,nest&perline=10)](https://skillicons.dev)
@@ -31,14 +31,14 @@ As a Full-Stack Developer, I am passionate about building impactful and scalable
 
 
 # [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev) GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Jeremy-96&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=J3vrin96&theme=tokyonight&hide_border=false)<br/>
 
 
 # ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Jeremy-96&icon=1&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=J3vrin-96&icon=1&color=6)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
