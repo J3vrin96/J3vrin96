@@ -23,7 +23,7 @@ As a Full-Stack Developer, I am passionate about building impactful and scalable
 ### Database
 [![My Skills](https://skillicons.dev/icons?i=mongo,mysql,postgres&perline=10)](https://skillicons.dev)
 
-### CI/CD
+### Devops
 [![My Skills](https://skillicons.dev/icons?i=googlecloud,docker,terraform&perline=10)](https://skillicons.dev)
 
 ### Tools
